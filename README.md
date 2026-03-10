@@ -22,7 +22,7 @@ Este é um site de portfólio para Serralheria Atelier.
 
 ## Como ver o site em execução
 
-1 - [Entre no link: https://otaviophellipe.github.io/Serralheria-Atelier/](https://otaviophellipe.github.io/Serralheria-Atelier)
+1 - [Entre no link: https://otaviophellipe.github.io/Serralheria-Atelier/](https://otaviophellipe.github.io/serralheria-atelier)
 
 ## 🔎 Recursos
 - Design responsivo
