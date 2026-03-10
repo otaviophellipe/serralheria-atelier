@@ -1,7 +1,7 @@
 <p align="left">
   <a href="https://img.shields.io/badge/Status-%20Concluido-green">
     <img src="https://img.shields.io/badge/Status-%20Concluido-green" alt="Status: Concluído" />
-<img src="https://img.shields.io/badge/License-%20MIT-blue" alt="MIT" />
+<img src="https://img.shields.io/badge/License-%20MIT-blue" alt="PRÓPRIA" />
   </a>
 </p>
 
@@ -22,7 +22,7 @@ Este é um site de portfólio para Serralheria Atelier.
 
 ## Como ver o site em execução
 
-1 - [Entre no link: x](x)
+1 - [Entre no link: https://otaviophellipe.github.io/serralheria-atelier/]([x](https://otaviophellipe.github.io/serralheria-atelier/))
 
 ## 🔎 Recursos
 - Design responsivo
